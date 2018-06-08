@@ -1,0 +1,77 @@
+[
+  {
+    "COST": "19.95",
+    "ITEM": "Green T-Shirt",
+    "BRAND": "Eddys"
+  },
+  {
+    "COST": "15.55",
+    "ITEM": "Orange T-Shirt",
+    "BRAND": "Eddys"
+  },
+  {
+    "COST": "12.25",
+    "ITEM": "Blue Sweater",
+    "BRAND": "Eddys"
+  },
+  {
+    "COST": "25.55",
+    "ITEM": "Gray Sweater",
+    "BRAND": "Eddys"
+  },
+  {
+    "COST": "63.35",
+    "ITEM": "Red Winter Coat",
+    "BRAND": "Eddys"
+  },
+  {
+    "COST": "17.73",
+    "ITEM": "Blue Jeans",
+    "BRAND": "Guiseppe"
+  },
+  {
+    "COST": "13.35",
+    "ITEM": "Gray Pants",
+    "BRAND": "Guiseppe"
+  },
+  {
+    "COST": "11.10",
+    "ITEM": "White Shirt",
+    "BRAND": "Guiseppe"
+  },
+  {
+    "COST": "25.10",
+    "ITEM": "Gray Jacket",
+    "BRAND": "Guiseppe"
+  },
+  {
+    "COST": "32.30",
+    "ITEM": "Expensive White Shirt",
+    "BRAND": "Guiseppe"
+  },
+  {
+    "COST": "12.30",
+    "ITEM": "Pink Shirt",
+    "BRAND": "OffBrand"
+  },
+  {
+    "COST": "17.35",
+    "ITEM": "Yellow Shirt",
+    "BRAND": "OffBrand"
+  },
+  {
+    "COST": "12.25",
+    "ITEM": "Brown Shirt",
+    "BRAND": "offBrand"
+  },
+  {
+    "COST": "10.01",
+    "ITEM": "Orange Shirt",
+    "BRAND": "OffBrand"
+  },
+  {
+    "COST": "11.50",
+    "ITEM": "Green Shirt",
+    "BRAND": "OffBrand"
+  }
+]
